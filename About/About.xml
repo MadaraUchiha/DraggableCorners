@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Draggable Corners</name>
-	<author>Sparr</author>
-	<targetVersion>1.0.2096</targetVersion>
-	<description>Designate conduits, sandbags, etc in L shapes. Designate walls and other impassable buildings in hollow rectangles.</description>
-	<url>https://github.com/sparr/rimworld-mod-DraggableCorners</url>
+	<name>DraggableCorners [1.4]</name>
+	<author>Madara Uchiha</author>
+	<packageId>MadaraUchiha.DraggableCorners</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description> *** RIMWORLD 1.4 ONLY *** Designate conduits, sandbags, etc in L shapes. Designate walls and other impassable buildings in hollow rectangles.</description>
+	<url>https://github.com/MadaraUchiha/DraggableCorners</url>
 </ModMetaData>
